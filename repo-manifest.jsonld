@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/organizer-toolkit/commit/661a39b6b07f99cb28b879c541b03a849eef3ea9",
       "git:hexsha": "661a39b6b07f99cb28b879c541b03a849eef3ea9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
